@@ -1,50 +1,87 @@
-# Venu Portfolio 🌐
+# Gurram Venu – Portfolio Website 🚀
 
-This is my personal portfolio website built using **HTML and CSS**.  
-It showcases my skills, projects, and contact details as a **Python Full Stack Developer (Fresher)**.
+This repository contains my **personal portfolio website** built using **HTML and CSS**.  
+The portfolio highlights my skills, education, projects, and contact details as a **Python Full Stack Developer (Fresher)**.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Portfolio Website:**  
+https://venugurram2004-boo.github.io/venu-portfolio/
 
 ---
 
 ## 👤 About Me
 
-Hi, I'm **Gurram Venu**, a passionate Python developer eager to learn, build real-world projects, and gain industry experience.  
-Currently focusing on improving my skills and looking for opportunities to earn while learning.
+I am **Gurram Venu**, a B.Sc graduate (Zoology & Chemistry) from S.V. University, Tirupati.  
+I am a motivated Python Full Stack Developer with strong fundamentals in backend and frontend technologies.  
+I enjoy building responsive, user-friendly web applications and continuously improving my technical skills.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-- Python, OOPs  
-- HTML, CSS, JavaScript  
-- Flask (Basics)  
-- Git & GitHub  
-- Jupyter Notebook  
-- Gen AI (Basics)
+### Programming & Backend
+- Python  
+- OOP Concepts  
+- Django  
+- Flask (Basics)
 
----
-
-## 🚀 Live Website
-
-🔗 **Portfolio Link:**  
-https://venugurram2004-boo.github.io/venu-portfolio/
-
----
-
-## 📁 Technologies Used
-
+### Frontend
 - HTML5  
 - CSS3  
-- GitHub Pages
+- JavaScript  
+
+### Database & Tools
+- MySQL  
+- Git & GitHub  
+- Jupyter Notebook  
+
+### Additional Skills
+- Generative AI (Basics)  
+- Machine Learning (Basics)  
+- Power BI (Basics)  
+- MS Excel, MS Word  
+- Problem Solving & Communication Skills  
+
+---
+
+## 📂 Project
+
+### HR Management System
+- Developed a **web-based HR Management System** using **Django** for backend and **HTML/CSS** for frontend.
+- Features include employee record management, attendance tracking, leave management, and salary generation.
+- Implemented role-based access control and secure authentication.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science (Zoology & Chemistry)**  
+Sri Venkateswara Arts College, Tirupati  
+**Duration:** 2022 – 2025  
+**CGPA:** 7.4
+
+---
+
+## 📜 Certifications
+
+- **Python Programming** – Palle Technologies, Bangalore (Offline Training)  
+- **Full Stack Development** – 6 Months Hands-on Training (Frontend, Backend, Database)
 
 ---
 
 ## 📞 Contact
 
-- 📧 Email: your-email@gmail.com  
-- 💻 GitHub: https://github.com/venugurram2004-boo
+- 📧 Email: venugurram2004@gmail.com  
+- 📱 Phone: 8309965206  
+- 📍 Location: Bangalore, Karnataka  
+- 🌐 GitHub: https://github.com/venugurram2004-boo  
 
 ---
 
 ## ⭐ Note
 
-This portfolio will be updated regularly as I learn new technologies and complete more projects.
+This portfolio is continuously updated as I learn new technologies and build more projects.  
+Feedback and suggestions are always welcome.
