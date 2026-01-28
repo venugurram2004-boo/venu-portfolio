@@ -14,7 +14,7 @@ https://venugurram2004-boo.github.io/venu-portfolio/
 
 ## 👤 About Me
 
-I am **Gurram Venu**, a B.Sc graduate from S.V. University, Tirupati.  
+I am **Gurram Venu**, a B.Sc graduate from Sri Venkateswara Arts College, Tirupati.  
 I am a motivated Python Full Stack Developer with strong fundamentals in backend and frontend technologies.  
 I enjoy building responsive, user-friendly web applications and continuously improving my technical skills.
 
